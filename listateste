@@ -1,1 +1,102 @@
 
+# EXTM3U
+
+#EXTINF: 0 tvg-logo = "" group-title = "", SPORTTV
+https://wstream.to/3c648493-17f6-4396-a764-58c7d77b7a7f
+
+#EXTINF: 0 tvg-logo = "" group-title = "", GLOBO
+https://canais.gratis/a6031ec2-332c-4ee3-8abf-1c8f43361cca
+#EXTINF: 0 tvg-logo = "" group-title = "", BAND
+http://95.85.15.59/loadbalance/bandhd/chunks.m3u8?pxAuth=LMWWToZDgA9rFK8Vaa1kEkcEzMXJuW1u
+
+#EXTINF: 0 tvg-logo = "" group-title = "", TV CULTURA
+http://177.73.84.49/hls/live/live.m3u8
+
+#EXTINF: 0 tvg-logo = "" group-title = "", GRAVAR NOVO
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w583150912.m3u8
+
+#EXTINF: 0 tvg-logo = "" group-title = "", TV JORNAL
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w995518859_b216000_sleng.m3u8
+
+#EXTINF: 0 tvg-logo = "" group-title = "", FOX SPORT
+http://165.227.191.103/loadbalance/sat11/chunks.m3u8?pxAuth=axwE0PvkZuthBtT892JRdELKjlxiIr5X
+
+#EXTINF: 0 tvg-logo = "" group-title = "", MAX PRIME
+http://165.227.115.179/loadbalance/maxprime/chunks.m3u8?pxAuth=LSQqCKQWAHmIZPohqIGry4k9efln29zo
+
+#EXTINF: 0 tvg-logo = "" group-title = "", HBO
+http://138.197.165.250/loadbalance/hbohd/chunks.m3u8?pxAuth=RAvba5xNCE6ftaA8OnLfDfzYdJdTBWQM
+
+#EXTINF: 0 tvg-logo = "" group-title = "", SPACE
+http://85.204.124.42:8081/live/master11/chunks.m3u8?nimblesessionid=1277612&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDc6NTM6MDYgUE0maGFzaF92YWx1ZT1YTTdmemZ1K0RFUVgvWlBaSTVMTEpnPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF: 0 tvg-logo = "" group-title = "", UNIVERSAL CHANEL
+http://165.227.57.96/loadbalance/paramount/chunks.m3u8?pxAuth=yUxugmTnSHIlyjnNwoS2EsRN4MtHMcCM
+
+#EXTINF: 0 tvg-logo = "" group-title = "", MEGA PIX
+http://85.204.124.42:8081/live/master77_1/chunks.m3u8?nimblesessionid=1277465&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDc6NTE6MzEgUE0maGFzaF92YWx1ZT0xTjhuQVF0d2xKM093WUhZOGZ3ckNBPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF: 0 tvg-logo = "" group-title = "", CINEMAX
+http://165.227.57.25/loadbalance/cinemax-hd/chunks.m3u8?pxAuth=AYGYbYOWDSc0aZpWcgXCOLptY0oJKUuZ
+
+#EXTINF: 0 tvg-logo = "" group-title = "", TELECINE PREMIUM
+http://138.197.211.66/loadbalance/telecinepremium/chunks.m3u8?pxAuth=SQDHMbKd6FB09CQGmg397MESXDAotiu3
+
+#EXTINF: 0 tvg-logo = "" group-title = "", TNT
+http://165.227.178.48/loadbalance/sat2/chunks.m3u8?pxAuth=2mhh9Vi5ssKAaWwK71BNigKq2NkfjmJq
+
+#EXTINF: 0 tvg-logo = "" group-title = "", RECORD SÃO PAULO
+http://165.227.176.51/loadbalance/record2278/chunks.m3u8?pxAuth=dZFDTPoGBonYnr01VY1LMiYeyV97G6sJ
+
+#EXTINF: 0 tvg-logo = "" group-title = "", NICKELODEON
+http://85.204.124.42:8081/live/brlive_0030/chunks.m3u8?nimblesessionid=1276730&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDc6NDE6NDAgUE0maGFzaF92YWx1ZT1QclBCRUFqZEsvKzQrTVVIeDNaelNRPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF: 0 tvg-logo = "" group-title = "", CARTOOM
+http://85.204.124.42:8081/live/brlive_0030/chunks.m3u8?nimblesessionid=1276730&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDc6NDE6NDAgUE0maGFzaF92YWx1ZT1QclBCRUFqZEsvKzQrTVVIeDNaelNRPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF: 0 tvg-logo = "" group-title = "", NICK JR
+http://85.204.124.41
+
+#EXTINF: 0 tvg-logo = "" group-title = "", NICK HD
+http://85.204.124.42:8081/live/brlive_0030/chunks.m3u8?nimblesessionid=1277035&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDc6NDY6MDcgUE0maGFzaF92YWx1ZT0yMGNlSXllMlhPWk5TY3YrQ1RTeVVBPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF: 0 tvg-logo = "" group-title = "", TV RÁ-TIM-BUM
+http://85.204.124.42:8081/live/sonyspin/chunks.m3u8?nimblesessionid=1277098&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDc6NDY6NTggUE0maGFzaF92YWx1ZT1HNUtPRFhFZ05jUkpoNUFJeVlHbktRPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF: 0 tvg-logo = "" group-title = "", NICK XD
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/chunklist_w472075922.m3u8
+
+#EXTINF: 0 tvg-logo = "" group-title = "", DISNEY CHANNEL
+http://85.204.124.42:8081/live/disney/chunks.m3u8?nimblesessionid=1277313&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDc6NDk6MzQgUE0maGFzaF92YWx1ZT1yY0p5UnVDOW1QdDdpM2hXYit0WlVRPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF: 0 tvg-logo = "" group-title = "", AÇÃO TELECIONAR
+http://85.204.124.42:8081/live/space/chunks.m3u8?nimblesessionid=1277687&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDc6NTQ6MDIgUE0maJdzaF92YWxZc1Z51Wdp3JdF92YWxZc1RZTaPJMJdF92YWxZc1Z51Wdc6NTQ6MDIgUElJdF92F92YWxZc1Z51WdpMJDZMZTZTZTZTMPJ0FZMZc1Wdpc6NTQ6MDIgUEl
+
+#EXTINF: 0 tvg-logo = "" group-title = "", TELECINE FUM
+http://85.204.124.42:8081/live/master17/chunks.m3u8?nimblesessionid=1277747&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDc6NTQ6NTMgUE0maGFzaF92YWx1ZT0yUGdRb1lMcUVWYzVoRlkrY3Vra2F3PT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF: 0 tvg-logo = "" group-title = "", TELECINE PIPOCA
+http://85.204.124.42:8081/live/44_2/chunks.m3u8?nimblesessionid=1277836&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDc6NTU6NTIgUE0maGFzaF92YWx1ZT1wZGE5bHZnY0VVVks3OTFtUDB4bDN3PT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF: 0 tvg-logo = "" group-title = "", TELECINE PREMIUM
+http://85.204.124.42:8081/live/master18/chunks.m3u8?nimblesessionid=1277941&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDc6NTc6MTMgUE0maGFzaF92YWx1ZT1rSTE2RW1xSmc1MmtIV0lKQ1k3VFZBPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF: 0 tvg-logo = "" group-title = "", TELECINE TOUCH
+http://85.204.124.42:8081/live/36_1/chunks.m3u8?nimblesessionid=1278117&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDc6NTk6MTEgUE0maGFzaF92YWx1ZT12alVuTmR0cWdCdXVqQUY3YkpEaGxnPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF: 0 tvg-logo = "" group-title = "", TELECINE COLT
+http://85.204.124.42:8081/live/36_1/chunks.m3u8?nimblesessionid=1278169&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDc6NTk6NDIgUE0maGFzaF92YWx1ZT1tbUc2NXRLQk1YNEhYT1REWVgvTkFRPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF: 0 tvg-logo = "" group-title = "", AMC-BRASIL
+http://85.204.124.42:8081/live/tccult/chunks.m3u8?nimblesessionid=1278268&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDg6MDA6NDMgUE0maGFzaF92YWx1ZT05M2k5NGxJeWlyYjdnd3Vua2RlcXlRPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF: 0 tvg-logo = "" group-title = "", HBO 2
+http://85.204.124.42:8081/live/hbo2/chunks.m3u8?nimblesessionid=1278439&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDg6MDI6NTcgUE0maGFzaF92YWx1ZT12RVlWUStRS3llcUp2MWFiZzVNVnRnPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF: 0 tvg-logo = "" group-title = "", HBO PLUS
+http://85.204.124.42:8081/live/hbo2/chunks.m3u8?nimblesessionid=1278439&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDg6MDI6NTcgUE0maGFzaF92YWx1ZT12RVlWUStRS3llcUp2MWFiZzVNVnRnPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF: 0 tvg-logo = "" group-title = "", HBO-FAMILY
+http://85.204.124.42:8081/live/hboplus/chunks.m3u8?nimblesessionid=1278525&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDg6MDQ6MDQgUE0maGFzaF92YWx1ZT16b09PTVluY01hb3h1dTJ3Z2JuQ2FBPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF: 0 tvg-logo = "" group-title = "", HBO SIGNATURE
+http://85.204.124.42:8081/live/108/chunks.m3u8?nimblesessionid=1278722&wmsAuthSign=c2VydmVyX3RpbWU9MT
